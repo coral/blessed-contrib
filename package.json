@@ -1,6 +1,6 @@
 {
   "name": "neo-blessed-contrib",
-  "version": "4.8.9",
+  "version": "4.8.10",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
